@@ -2,7 +2,14 @@ body{
 
 	margin:0;
 	font-family: Helvetica;
+	
 
+}
+
+h1{
+	font-weight: 200;
+	font-size: 100px;
+	color: yellow;	
 }
 
 #logo{
